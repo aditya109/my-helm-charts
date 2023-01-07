@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https://github.com/aditya109/my-helm-charts/nginx-0.1.0.tgz
+    - https://https://aditya109.github.io/my-helm-charts/bundles/nginx/nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2023-01-06T23:48:54.651350975+05:30"
